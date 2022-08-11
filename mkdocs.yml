@@ -10,7 +10,7 @@ edit_uri: "tree/main/docs"
 
 theme:
   name: material
-  favicon: assets/favicon.png
+  favicon: assets/favicon.ico
   logo: https://khipo.com.br/wp-content/uploads/2019/09/khipologo.png
 
   features:
